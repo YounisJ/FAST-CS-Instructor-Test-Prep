@@ -1,7 +1,3 @@
-# FAST School of Computing (Karachi Campus) Instructor Screening Test Crash Course
-
-## Part 4
-
 This part continues the crash course with:
 - Software Engineering
 - Computer Networks
