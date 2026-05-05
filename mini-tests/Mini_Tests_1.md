@@ -1,18 +1,7 @@
 
 
 This part continues the crash course with:
-- Daily Mini Tests (Days 4–6)
-- Full-Length Mock Test 1 (100 MCQs)
-
-> FAST’s published BS Computer Science curriculum includes Programming Fundamentals, Object-Oriented Programming, Data Structures, Discrete Structures, Database Systems, Operating Systems, Theory of Automata, Artificial Intelligence, Computer Networks, and Software Engineering, which matches the subject mix used in this handbook and the full mock design below.[web:19]
-
-> FAST Karachi also publicly advertised faculty positions in Computing and AI in 2026, which supports using a broad, instructor-level computing coverage rather than a narrow single-subject prep strategy.[web:65]
-
----
-
-## Daily Mini Tests
-
-## Day 4 Mini Test
+## Mini Test
 
 ### Questions
 
